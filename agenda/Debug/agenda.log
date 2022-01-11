@@ -1,0 +1,3 @@
+﻿  agenda.cpp
+Z:\C++\agenda\agenda.cpp(138,7): warning C4101: 'date' : variable locale non référencée
+  agenda.vcxproj -> Z:\C++\agenda\Debug\agenda.exe

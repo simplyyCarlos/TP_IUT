@@ -1,0 +1,16 @@
+B B B R R R R R B B B B
+B B R R R R R R R R R B
+B B V V V J J V J B B B
+B V J V J J J V J J J B
+B V J V V J J J V J J J
+B V V J J J J V V V V J
+B B B J J J J J J J V V
+B B V V R V V R B B B B
+B V V V R V V R V V V B
+V V V V R R R R V V V V
+J J V R J R R J R V J J
+J J J R R R R R R J J J
+J J R R R R R R R R J J
+B B R R R B B R R R B B
+B V V V B B B B V V V B
+V V V V B B B B V V V V

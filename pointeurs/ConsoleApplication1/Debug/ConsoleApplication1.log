@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\p2103031\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(62,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  ConsoleApplication1.vcxproj -> C:\Users\p2103031\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

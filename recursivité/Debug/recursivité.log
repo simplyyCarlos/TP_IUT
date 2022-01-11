@@ -1,0 +1,4 @@
+﻿  recursivité.cpp
+Z:\C++\recursivité\recursivité.cpp(56,6): warning C4101: 'compteur' : variable locale non référencée
+Z:\C++\recursivité\recursivité.cpp(52): warning C4715: 'recherche_dicho' : les chemins de contrôle ne retournent pas tous une valeur
+  recursivité.vcxproj -> Z:\C++\recursivité\Debug\recursivité.exe
